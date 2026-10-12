@@ -201,7 +201,7 @@ $cartCount = array_sum($cart);
         <div class="row align-items-center g-4">
             <div class="col-lg-8">
                 <div class="eyebrow mb-2">Student Supplies Ordering System</div>
-                <h1 class="display-6 fw-bold mb-2">Ready for a great school day?</h1>
+                <h1 class="display-6 fw-bold mb-2">Gwapo KO?</h1>
                 <p class="mb-0 text-white-50">Pick up the essentials, add them to your cart, and check out in a few easy steps.</p>
             </div>
             <div class="col-lg-4 text-lg-end">
